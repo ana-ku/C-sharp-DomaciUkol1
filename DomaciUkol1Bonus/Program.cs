@@ -1,1 +1,0 @@
-﻿Console.WriteLine("Zadej pocet startujicich koni");
